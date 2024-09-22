@@ -15,6 +15,10 @@
         "Title": "Problème de l’outil Déploiement d’Office",
         "Content": "Afin de déployer Office sur Windows 7, nous allons pousser une mise à jour pour vous. Si la mise à jour a échoué, vous devez **modifier le module d’installation** de *Outil Déploiement d’Office* to *Office Tool Plus* lors du déploiement d’Office. Sinon, le programme d’installation ne sera pas démarré."
     },
+    "hu-hu": {
+        "Title": "Az Office telepítési eszköz probléma",
+        "Content": "Ahhoz, hogy az Office-t Windows 7 alatt telepíthesse, frissítést fogunk telepíteni az Ön számára. Ha a frissítés nem sikerült, akkor az Office telepítésekor **cserélje a telepítő modult** *Office Deployment Tool*-ról *Office Tool Plus*-ra . Ellenkező esetben a telepítő nem fog elindulni."
+    },
     "zh-cn": {
         "Title": "Office 部署工具的问题",
         "Content": "为了在 Windows 7 中能正常部署 Office，我们会向您推送一个更新。如果更新无法下载，请在部署 Office 时将安装模块从 *Office 部署工具* 更改为 *Office Tool Plus*，否则 Microsoft Office 安装程序将无法正常运行。"
